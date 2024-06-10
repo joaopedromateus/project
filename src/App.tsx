@@ -1,4 +1,3 @@
-import React from 'react';
 import Navbar from './components/navbar/Navbar';
 import Sectionone from './components/sectionone/Sectionone';
 import Sectiontwo from './components/sectiontwo/Sectiontwo';

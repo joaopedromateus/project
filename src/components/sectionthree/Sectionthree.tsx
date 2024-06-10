@@ -1,4 +1,3 @@
-import React from 'react';
 import contato from '../../images/undraw-contact.svg';
 
 function Sectionthree() {
